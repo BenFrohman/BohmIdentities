@@ -23,3 +23,7 @@ This repository is empty. The Lean module, the Apache-2.0 license, and the copyr
 https://github.com/BenFrohman/bohm-identities
 
 Copyright (c) 2026 Benjamin Stanley Frohman.
+
+## Citation
+
+Cite this work with [`CITATION.cff`](CITATION.cff) (GitHub's "Cite this repository" button).
